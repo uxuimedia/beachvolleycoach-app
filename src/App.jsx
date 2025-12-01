@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>2on2</h1>
+      <h1>BeachVolleyCoach</h1>
     </div>
   )
 }
