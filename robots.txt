@@ -1,0 +1,16 @@
+Host: https://2on2.me
+
+User-agent: *
+Disallow: /?
+Disallow: /?s=
+Disallow: /*?*
+Disallow: /?page
+Disallow: /countries/
+Disallow: /spot/
+Disallow: /news/
+Disallow: /codes/
+Disallow: /coach/
+Disallow: /ofp/
+Disallow: /exercises/
+
+Sitemap: https://2on2.me/sitemap.xml
